@@ -1,1 +1,10 @@
-
+[
+  {
+    "discord_id": "813514236021178428",
+    "license_key": "1234"
+  },
+  {
+    "discord_id": "876543210987654321",
+    "license_key": "ANOTHER_LICENSE_KEY"
+  }
+]
